@@ -1,4 +1,3 @@
-import { Button } from 'bootstrap';
 import { getDataFromApi, addTaskToApi, deleteTaskToApi } from './data';
 
 class PomodoroApp {
